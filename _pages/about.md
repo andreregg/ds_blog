@@ -5,7 +5,7 @@ permalink: /about/
 image: images/Andre2.PNG
 ---
 
-<img src="/Users/andrereggiani/Documents/my_website/ds_blog/images/Andre2.PNG" alt="selfie" style="zoom:25%;" />
+<img src="/images/Andre2.PNG" alt="selfie" style="zoom:25%;" />
 
 Sou um empreendedor e cientista de dados apaixonado por tecnologia
 
