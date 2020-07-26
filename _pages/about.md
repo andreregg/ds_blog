@@ -5,7 +5,7 @@ permalink: /about/
 image: images/Andre2.PNG
 ---
 
-<img src="https://github.com/andreregg/ds_blog/blob/master/images/Andre2.PNG" alt="selfie" width="120"/>
+![selfie](https://github.com/andreregg/ds_blog/blob/master/images/Andre2.PNG)
 
 Sou um empreendedor e cientista de dados apaixonado por tecnologia
 
@@ -16,8 +16,6 @@ Iniciei a minha carreira no setor público em 2012, onde desenvolvi iniciativas 
 Há cerca de 5 anos, entendi que os dados eram o petróleo do século XXI, e desde então desenvolvo soluções que os usam para solucionar problemas do mundo real. 
 
 **Languages & Frameworks:**  Python (pandas, numpy, scikit-learn, scrapy, etc...), Deep Learning (Keras/Tensorflow) , Spark,  SQL.
-
-<br/>
 
 <br/>
 
