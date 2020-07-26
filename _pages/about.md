@@ -5,7 +5,7 @@ permalink: /about/
 image: images/Andre2.PNG
 ---
 
-<img src="images/Andre2.png" alt="selfie" style="zoom:15%;" />
+<img src="images/Andre2.PNG" alt="selfie" style="zoom:15%;" />
 
 Sou um empreendedor e cientista de dados apaixonado por tecnologia
 
