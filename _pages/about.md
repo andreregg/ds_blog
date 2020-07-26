@@ -5,7 +5,7 @@ permalink: /about/
 image: images/Andre2.PNG
 ---
 
-![](https://github.com/andreregg/ds_blog/blob/master/images/Andre2.PNG =50x)
+<img src="https://github.com/andreregg/ds_blog/blob/master/images/Andre2.PNG" alt="selfie" width="90"/>
 
 Sou um empreendedor e cientista de dados apaixonado por tecnologia
 
