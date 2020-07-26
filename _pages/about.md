@@ -15,9 +15,11 @@ Iniciei a minha carreira no setor público em 2012, onde desenvolvi iniciativas 
 
 Há cerca de 5 anos, entendi que os dados eram o petróleo do século XXI, e desde então desenvolvo soluções que os usam para solucionar problemas do mundo real. 
 
-**Languages & Frameworks:** <br/>Python (pandas, numpy, scikit-learn, scrapy, etc...), Deep Learning (Keras/Tensorflow) , Spark,  SQL.
+**Languages & Frameworks:**  Python (pandas, numpy, scikit-learn, scrapy, etc...), Deep Learning (Keras/Tensorflow) , Spark,  SQL.
 
-...
+<br/>
 
-E sim, a resposta é 42!
+<br/>
+
+... e sim, a resposta é 42!
 
