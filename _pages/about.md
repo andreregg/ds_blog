@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sobre
+title: Sobre mim
 permalink: /about/
-Image: images/Andre2.PNG
+image: images/Andre2.PNG
 ---
 
 Sou um empreendedor e cientista de dados apaixonado por tecnologia
